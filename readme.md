@@ -1,6 +1,4 @@
-```
 source('downloadfile.R')
-```
 This will download myfile.zip and unzip it. Now everything is ready for the analysis.
 
 ## how to run the analysis
